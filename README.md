@@ -4,12 +4,12 @@ This repository presents an interactive Power BI Dashboard created using the Sal
  from Kaggle.
 The dashboard demonstrates data modeling, advanced DAX, and interactive visualization to analyze sales across customers, products, regions, and operations.
 
-🔗 **Interactive Dashboard Link:** [View on Power BI Service](https://app.powerbi.com/reportEmbed?reportId=3e40924e-45ea-41bb-a361-f06d7ed10db6&autoAuth=true&ctid=2d3194e3-1654-46bd-bae2-ad37ba11b0ae)
+ **Interactive Dashboard Link:** [View on Power BI Service](https://app.powerbi.com/reportEmbed?reportId=3e40924e-45ea-41bb-a361-f06d7ed10db6&autoAuth=true&ctid=2d3194e3-1654-46bd-bae2-ad37ba11b0ae)
 
-📂 [Sales Forecasting Dataset (Kaggle)](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
+[Sales Forecasting Dataset (Kaggle)](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 
 
-⚠️ Disclaimer
+ Disclaimer
 
 The dataset is completely dummy/artificial, provided by Kaggle for training and educational purposes only.
 
@@ -17,7 +17,7 @@ It does not represent real-world sales transactions.
 
 No YoY (Year over Year) or YTD/MTD comparisons were made, since the dataset does not show meaningful differences between years.
 
-🗂️ Dashboard Pages
+ Dashboard Pages
 1. Overview Page
 
 KPIs: Total Sales, Orders Count, Customers, Average Order Value (AOV).
@@ -58,7 +58,7 @@ Top 5 Products by Sales.
 
 Category-wise Sales Distribution.
 
-🧮 DAX Measures
+DAX Measures
 
 Here are the main DAX measures built to support the dashboard:
 
@@ -115,14 +115,14 @@ CALCULATE(
     )
 )
 
-📸 Dashboard Screenshots
+Dashboard Screenshots
 <img width="1074" height="1026" alt="image" src="https://github.com/user-attachments/assets/d9ab9cdf-fc83-4077-a7d0-5c9520298fcf" />
 <img width="1060" height="1020" alt="image" src="https://github.com/user-attachments/assets/6639394b-1fa1-483c-a48b-ad20b3596eab" />
 <img width="1048" height="1008" alt="image" src="https://github.com/user-attachments/assets/64a7bd44-a1ff-4be2-9b86-13ea7126c9ef" />
 <img width="1030" height="1012" alt="image" src="https://github.com/user-attachments/assets/6b52fdf4-7795-435d-8eb5-cb1f95b8bc1b" />
 
 
-🛠️ Skills Demonstrated
+Skills Demonstrated
 
 - Power BI Data Modeling
 - Advanced DAX (Rolling, TopN, Time Intelligence, Pareto)
@@ -130,14 +130,14 @@ CALCULATE(
 - Interactive Dashboard Storytelling
 - Performance Optimization (merging visuals, removing redundancies)
 
-🚀 How to Use
+How to Use
 
 - Clone this repository:
 git clone https://github.com/YourUsername/Sales-Dashboard-PowerBI.git
 - Open the .pbix file in Power BI Desktop.
 - Connect to the dataset if needed (or download directly from Kaggle).
 
-✨ This project is a showcase of Power BI + DAX skills using dummy training data from Kaggle.
+ This project is a showcase of Power BI + DAX skills using dummy training data from Kaggle.
 
 
 
