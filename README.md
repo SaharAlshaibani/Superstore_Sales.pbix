@@ -1,7 +1,7 @@
  Power BI Sales Dashboard
  
 This repository presents an interactive Power BI Dashboard created using the Sales Forecasting Dataset
- from Kaggle.
+ from Kaggle. 
 The dashboard demonstrates data modeling, advanced DAX, and interactive visualization to analyze sales across customers, products, regions, and operations.
 
  **Interactive Dashboard Link:** [View on Power BI Service](https://app.powerbi.com/reportEmbed?reportId=3e40924e-45ea-41bb-a361-f06d7ed10db6&autoAuth=true&ctid=2d3194e3-1654-46bd-bae2-ad37ba11b0ae)
